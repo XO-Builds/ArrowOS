@@ -7,6 +7,8 @@
 
 *_DOWNLOAD COUNT BY RELEASE DATE_*
 
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/XO-Builds/ArrowOS/20211113/total.svg)](https://github.com/XO-Builds/ArrowOS/releases)
+
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/XO-Builds/ArrowOS/20211104/total.svg)](https://github.com/XO-Builds/ArrowOS/releases)
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/XO-Builds/ArrowOS/20211025/total.svg)](https://github.com/XO-Builds/ArrowOS/releases)
